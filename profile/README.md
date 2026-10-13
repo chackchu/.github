@@ -118,12 +118,12 @@
 
 <table>
   <tr>
-    <th width="430">인기 도서 링 화면</th>
-    <th width="430">인기 도서 링 GIF</th>
+    <th>인기 도서 링 화면</th>
+    <th>인기 도서 링 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/popular-ring.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/popular-ring.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/popular-ring.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/popular-ring.gif" width="380" /></td>
   </tr>
 </table>
 
@@ -133,12 +133,12 @@
 
 <table>
   <tr>
-    <th width="430">오늘의 책추 화면</th>
-    <th width="430">추천 흐름 GIF</th>
+    <th>오늘의 책추 화면</th>
+    <th>추천 흐름 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/recommend.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/recommend.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/recommend.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/recommend.gif" width="380" /></td>
   </tr>
 </table>
 
@@ -148,12 +148,12 @@
 
 <table>
   <tr>
-    <th width="430">나만의 책 한 권 화면</th>
-    <th width="430">아카이빙 GIF</th>
+    <th>나만의 책 한 권 화면</th>
+    <th>아카이빙 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/archive.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/archive.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/archive.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/archive.gif" width="380" /></td>
   </tr>
 </table>
 
@@ -163,12 +163,12 @@
 
 <table>
   <tr>
-    <th width="430">내가 찜한 책 화면</th>
-    <th width="430">찜한 책 GIF</th>
+    <th>내가 찜한 책 화면</th>
+    <th>찜한 책 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/wishlist.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/wishlist.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/wishlist.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/wishlist.gif" width="380" /></td>
   </tr>
 </table>
 
@@ -178,12 +178,12 @@
 
 <table>
   <tr>
-    <th width="430">BOOK DNA 화면</th>
-    <th width="430">취향 분석 GIF</th>
+    <th>BOOK DNA 화면</th>
+    <th>취향 분석 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/book-dna.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/book-dna.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/book-dna.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/book-dna.gif" width="380" /></td>
   </tr>
 </table>
 
@@ -193,12 +193,12 @@
 
 <table>
   <tr>
-    <th width="430">책 가챠 화면</th>
-    <th width="430">책 가챠 GIF</th>
+    <th>책 가챠 화면</th>
+    <th>책 가챠 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/gacha.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/gacha.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/gacha.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/gacha.gif" width="380" /></td>
   </tr>
 </table>
 
@@ -208,12 +208,12 @@
 
 <table>
   <tr>
-    <th width="430">이상형 월드컵 화면</th>
-    <th width="430">이상형 월드컵 GIF</th>
+    <th>이상형 월드컵 화면</th>
+    <th>이상형 월드컵 GIF</th>
   </tr>
   <tr>
-    <td width="430" align="center"><img src="../docs/assets/features/worldcup.png" width="420" /></td>
-    <td width="430" align="center"><img src="../docs/assets/features/worldcup.gif" width="420" /></td>
+    <td align="center"><img src="../docs/assets/features/worldcup.png" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/worldcup.gif" width="380" /></td>
   </tr>
 </table>
 
