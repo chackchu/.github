@@ -122,8 +122,8 @@
     <th>인기 도서 링 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/popular-ring.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/popular-ring.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/popular-ring.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/popular-ring.gif" width="396" /></td>
   </tr>
 </table>
 
@@ -137,8 +137,8 @@
     <th>추천 흐름 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/recommend.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/recommend.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/recommend.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/recommend.gif" width="396" /></td>
   </tr>
 </table>
 
@@ -152,8 +152,8 @@
     <th>아카이빙 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/archive.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/archive.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/archive.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/archive.gif" width="396" /></td>
   </tr>
 </table>
 
@@ -167,8 +167,8 @@
     <th>찜한 책 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/wishlist.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/wishlist.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/wishlist.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/wishlist.gif" width="396" /></td>
   </tr>
 </table>
 
@@ -182,8 +182,8 @@
     <th>취향 분석 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/book-dna.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/book-dna.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/book-dna.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/book-dna.gif" width="396" /></td>
   </tr>
 </table>
 
@@ -197,8 +197,8 @@
     <th>책 가챠 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/gacha.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/gacha.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/gacha.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/gacha.gif" width="396" /></td>
   </tr>
 </table>
 
@@ -212,8 +212,8 @@
     <th>이상형 월드컵 GIF</th>
   </tr>
   <tr>
-    <td align="center"><img src="../docs/assets/features/worldcup.png" width="380" /></td>
-    <td align="center"><img src="../docs/assets/features/worldcup.gif" width="380" /></td>
+    <td align="center"><img src="../docs/assets/features/worldcup.png" width="396" /></td>
+    <td align="center"><img src="../docs/assets/features/worldcup.gif" width="396" /></td>
   </tr>
 </table>
 
