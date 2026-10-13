@@ -366,8 +366,6 @@ erDiagram
 
 ### 임베딩 기반 벡터 추천
 
-![책과 태그를 같은 임베딩 공간에 배치](../docs/assets/slides/recommend-embedding.png)
-
 책의 서지 6필드(`bookname · authors · publisher · pub_year · class_no · class_nm`)와 관심 태그를 같은 임베딩 모델(`text-embedding-3-small`, 1536차원, GMS)로 벡터화해 Qdrant에 저장했습니다. 대출 관계는 임베딩 텍스트에 넣지 않고 payload와 재정렬 신호로만 사용합니다.
 
 ```text
@@ -390,13 +388,9 @@ erDiagram
 
 ### 다시 추천받기와 중복 제외
 
-![처음 추천과 다시 추천받기](../docs/assets/slides/recommend-exclude.png)
-
 처음 추천에서는 서재에 있는 책을 빼고 가장 가까운 5권을 고릅니다. 다시 추천받으면 서버가 상태를 따로 들지 않고 **최근 덱 3개**를 제외 목록으로 넘겨 다음 5권을 고르며, 후보가 모자라면 오래된 덱부터 제외를 풉니다. AI 서버가 폴백을 돌려주면 세그먼트 인기 도서로 대체합니다.
 
 ### BOOK DNA 산출 방식
-
-![BOOK DNA 산출 4단계](../docs/assets/slides/book-dna-pipeline.png)
 
 | 단계 | 적용 내용 |
 | :-- | :-- |
