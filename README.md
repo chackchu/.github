@@ -70,31 +70,37 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <img src="docs/assets/team/lee-gayoung.png" alt="이가영 프로필" width="140" height="140" /><br />
       <strong>이가영</strong><br />팀장 · FE<br />
       <a href="https://github.com/rkdud000">@rkdud000</a><br /><br />
       프론트엔드 개발<br />프로젝트 총괄
     </td>
     <td align="center" valign="top" width="33%">
+      <img src="docs/assets/team/jang-minsik.png" alt="장민식 프로필" width="140" height="140" /><br />
       <strong>장민식</strong><br />FE<br />
       <a href="https://github.com/msik-j">@msik-j</a><br /><br />
       프론트엔드 개발<br />서비스 시연
     </td>
     <td align="center" valign="top" width="33%">
+      <img src="docs/assets/team/hong-yura.png" alt="홍유라 프로필" width="140" height="140" /><br />
       <strong>홍유라</strong><br />FE<br /><br />
       프론트엔드 개발<br />발표 영상 제작
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
+      <img src="docs/assets/team/yang-geumgyu.png" alt="양금규 프로필" width="140" height="140" /><br />
       <strong>양금규</strong><br />BE · DATA<br /><br />
       도서 데이터 수집·적재<br />백엔드 API·설계 문서
     </td>
     <td align="center" valign="top" width="33%">
+      <img src="docs/assets/team/jo-seongjin.png" alt="조성진 프로필" width="140" height="140" /><br />
       <strong>조성진</strong><br />BE · INFRA<br />
       <a href="https://github.com/jinkong9">@jinkong9</a><br /><br />
       백엔드 API<br />EC2 배포·Jenkins CI/CD
     </td>
     <td align="center" valign="top" width="33%">
+      <img src="docs/assets/team/lee-eojin.png" alt="이어진 프로필" width="140" height="140" /><br />
       <strong>이어진</strong><br />AI · 발표<br />
       <a href="https://github.com/win929">@win929</a><br /><br />
       임베딩·벡터 추천<br />BOOK DNA 분석
@@ -110,7 +116,7 @@
 
 | 인기 도서 링 화면 | 인기 도서 링 GIF |
 | --- | --- |
-| <img src="docs/assets/features/popular-ring.png"> | <img src="docs/assets/features/popular-ring.gif"> |
+| <img src="docs/assets/features/popular-ring.png" width="420"> | <img src="docs/assets/features/popular-ring.gif" width="420"> |
 
 ### 💌 오늘의 책추
 
@@ -118,7 +124,7 @@
 
 | 오늘의 책추 화면 | 추천 흐름 GIF |
 | --- | --- |
-| <img src="docs/assets/features/recommend.png"> | <img src="docs/assets/features/recommend.gif"> |
+| <img src="docs/assets/features/recommend.png" width="420"> | <img src="docs/assets/features/recommend.gif" width="420"> |
 
 ### 📖 나만의 책 한 권
 
@@ -126,7 +132,7 @@
 
 | 나만의 책 한 권 화면 | 아카이빙 GIF |
 | --- | --- |
-| <img src="docs/assets/features/archive.png"> | <img src="docs/assets/features/archive.gif"> |
+| <img src="docs/assets/features/archive.png" width="420"> | <img src="docs/assets/features/archive.gif" width="420"> |
 
 ### 🔖 내가 찜한 책
 
@@ -134,7 +140,7 @@
 
 | 내가 찜한 책 화면 | 찜한 책 GIF |
 | --- | --- |
-| <img src="docs/assets/features/wishlist.png"> | <img src="docs/assets/features/wishlist.gif"> |
+| <img src="docs/assets/features/wishlist.png" width="420"> | <img src="docs/assets/features/wishlist.gif" width="420"> |
 
 ### 🧬 BOOK DNA
 
@@ -142,7 +148,7 @@
 
 | BOOK DNA 화면 | 취향 분석 GIF |
 | --- | --- |
-| <img src="docs/assets/features/book-dna.png"> | <img src="docs/assets/features/book-dna.gif"> |
+| <img src="docs/assets/features/book-dna.png" width="420"> | <img src="docs/assets/features/book-dna.gif" width="420"> |
 
 ### 🎰 완전랜덤 책 가챠
 
@@ -150,7 +156,7 @@
 
 | 책 가챠 화면 | 책 가챠 GIF |
 | --- | --- |
-| <img src="docs/assets/features/gacha.png"> | <img src="docs/assets/features/gacha.gif"> |
+| <img src="docs/assets/features/gacha.png" width="420"> | <img src="docs/assets/features/gacha.gif" width="420"> |
 
 ### 🏆 책 이상형 월드컵
 
@@ -158,7 +164,7 @@
 
 | 이상형 월드컵 화면 | 이상형 월드컵 GIF |
 | --- | --- |
-| <img src="docs/assets/features/worldcup.png"> | <img src="docs/assets/features/worldcup.gif"> |
+| <img src="docs/assets/features/worldcup.png" width="420"> | <img src="docs/assets/features/worldcup.gif" width="420"> |
 
 ## 🛠 기술 스택
 
