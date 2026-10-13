@@ -116,57 +116,106 @@
 
 > 홈 화면에서 10대부터 60대 이상까지 연령 × 성별 그룹이 많이 빌린 책을 원형 링으로 보여 줍니다. 링을 드래그해 돌리고, 그룹을 고르면 해당 세그먼트의 인기 도서 20권을 Ring view와 Grid view로 살펴볼 수 있습니다.
 
-| 인기 도서 링 화면 | 인기 도서 링 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/popular-ring.png" width="420"> | <img src="../docs/assets/features/popular-ring.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">인기 도서 링 화면</th>
+    <th width="430">인기 도서 링 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/popular-ring.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/popular-ring.gif" width="420" /></td>
+  </tr>
+</table>
 
 ### 💌 오늘의 책추
 
 > 읽은 책과 관심 태그를 바탕으로 오늘의 책을 엽서와 함께 건넵니다. 추천 이유를 엽서에 적어 주고, 책 상세에서는 비슷한 책과 함께 대출된 책을 이어서 보여 줍니다. `다시 추천받기`로 새 추천을, `관심 태그 고르기`로 추천 기준을 바꿀 수 있습니다.
 
-| 오늘의 책추 화면 | 추천 흐름 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/recommend.png" width="420"> | <img src="../docs/assets/features/recommend.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">오늘의 책추 화면</th>
+    <th width="430">추천 흐름 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/recommend.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/recommend.gif" width="420" /></td>
+  </tr>
+</table>
 
 ### 📖 나만의 책 한 권
 
 > 다 읽은 책은 한 권의 양장본처럼 넘겨 보는 독서 아카이브에 모입니다. 목차와 해별 완독 연표로 기록을 찾아가고, `독서 기록 수정`에서 완독일·별점·최대 300자 감상평을 고칠 수 있습니다.
 
-| 나만의 책 한 권 화면 | 아카이빙 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/archive.png" width="420"> | <img src="../docs/assets/features/archive.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">나만의 책 한 권 화면</th>
+    <th width="430">아카이빙 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/archive.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/archive.gif" width="420" /></td>
+  </tr>
+</table>
 
 ### 🔖 내가 찜한 책
 
 > `읽고 싶어요`로 담은 책은 장르별 책장에 꽂혀 한눈에 보입니다.
 
-| 내가 찜한 책 화면 | 찜한 책 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/wishlist.png" width="420"> | <img src="../docs/assets/features/wishlist.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">내가 찜한 책 화면</th>
+    <th width="430">찜한 책 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/wishlist.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/wishlist.gif" width="420" /></td>
+  </tr>
+</table>
 
 ### 🧬 BOOK DNA
 
 > 읽은 책이 모여 당신의 취향이 됩니다. 독서 기록을 몰입·감성·새로움·현실감·사색 5가지 지표로 분석해 `감성 탐독가` 같은 독서 타입을 붙여 주고, 6축 장르 레이더로 그린 취향의 지도와 독서 습관 리포트를 함께 보여 줍니다.
 
-| BOOK DNA 화면 | 취향 분석 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/book-dna.png" width="420"> | <img src="../docs/assets/features/book-dna.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">BOOK DNA 화면</th>
+    <th width="430">취향 분석 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/book-dna.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/book-dna.gif" width="420" /></td>
+  </tr>
+</table>
 
 ### 🎰 완전랜덤 책 가챠
 
 > 뽑기 기계의 손잡이를 돌리면 추천 후보 중 한 권이 무작위로 나옵니다. 마음에 들면 바로 서재에 담을 수 있습니다.
 
-| 책 가챠 화면 | 책 가챠 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/gacha.png" width="420"> | <img src="../docs/assets/features/gacha.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">책 가챠 화면</th>
+    <th width="430">책 가챠 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/gacha.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/gacha.gif" width="420" /></td>
+  </tr>
+</table>
 
 ### 🏆 책 이상형 월드컵
 
 > 제목·저자·표지를 가리고 AI가 쓴 소개글만 보고 고르는 16강 월드컵입니다. 선입견 없이 끌리는 이야기를 고르다 보면 마지막에 우승한 책 한 권만 공개됩니다.
 
-| 이상형 월드컵 화면 | 이상형 월드컵 GIF |
-| --- | --- |
-| <img src="../docs/assets/features/worldcup.png" width="420"> | <img src="../docs/assets/features/worldcup.gif" width="420"> |
+<table>
+  <tr>
+    <th width="430">이상형 월드컵 화면</th>
+    <th width="430">이상형 월드컵 GIF</th>
+  </tr>
+  <tr>
+    <td width="430" align="center"><img src="../docs/assets/features/worldcup.png" width="420" /></td>
+    <td width="430" align="center"><img src="../docs/assets/features/worldcup.gif" width="420" /></td>
+  </tr>
+</table>
 
 ## 🛠 기술 스택
 
